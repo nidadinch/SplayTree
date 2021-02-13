@@ -23,16 +23,16 @@ Program accepts input from input file which contains a series of command and int
 After each operation executed, program prints level order traversal of tree. If there is no left or right child element of any internal node, it prints a hyphen instead. For above input file, the output is like below:
 
 ```sh
-1
-2 1 -
-1
-5 1 -
-5
-5
-19 5 -
-5 - 19
-12 5 19
-5 - 12 - - - 19
+    1
+    2 1 -
+    1
+    5 1 -
+    5
+    5
+    19 5 -
+    5 - 19
+    12 5 19
+    5 - 12 - - - 19
 ```
 
 ## Built With
