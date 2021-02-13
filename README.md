@@ -44,12 +44,12 @@ After each operation executed, program prints level order traversal of tree. If 
 
 
 * ```sh
-    javac SplayTree.java
+  javac SplayTree.java
 
    ```
 
 * ```sh
-   java SplayTree input.txt output.txt
+  java SplayTree input.txt output.txt
 
    ```
 
